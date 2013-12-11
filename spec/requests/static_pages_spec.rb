@@ -14,7 +14,7 @@ describe "StaticPages" do
     end
 
   end
-    
+   
   describe "Help page" do
     it "should have the h1 'Help'" do
 
